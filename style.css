@@ -1,0 +1,95 @@
+
+.header {
+width: 800px;
+height: 80px;
+top: 26px;
+left: 50px;
+border: 2px solid rgba(0, 0, 0, 1);
+position: absolute;
+
+}
+
+.title {
+font-family: Roboto;
+font-size: 30px;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 20px;
+
+}
+
+.banner {
+box-sizing: border-box;
+width: 800px;
+height: 284px;
+top: 136px;
+left: 49px;
+border-radius: 20px;
+border: 1px solid #000000;
+position: absolute;
+
+}
+
+.image {
+font-family: Roboto;
+font-size: 40px;
+font-weight: 400;
+line-height: 47px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 100px;
+
+}
+
+.ingredientes {
+box-sizing: border-box;
+width: 550px;
+height: 350px;
+top: 450px;
+left: 49px;
+border: 1px solid #000000;
+position: absolute;
+
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.timing {
+    box-sizing: border-box;
+width: 194px;
+height: 350px;
+top: 450px;
+left: 656px;
+border-radius: 20px;
+border: 1px solid #000000;
+position: absolute;
+
+}
+
+.preparation {
+box-sizing: border-box;
+width: 550px;
+height: 350px;
+top: 857px;
+left: 49px;
+border: 1px solid #000000;
+position: absolute;
+
+}
+
+
+
+.footer {
+box-sizing: border-box;
+width: 800px;
+height: 40px;
+top: 1249px;
+left: 50px;
+border: 2px;
+position: absolute;
+
+}
