@@ -29,6 +29,7 @@ left: 49px;
 border-radius: 20px;
 border: 1px solid #000000;
 position: absolute;
+background-color: rgba(196, 196, 196, 1);
 
 }
 
@@ -63,7 +64,7 @@ h1 {
 }
 
 .timing {
-    box-sizing: border-box;
+box-sizing: border-box;
 width: 194px;
 height: 350px;
 top: 450px;
@@ -71,6 +72,29 @@ left: 656px;
 border-radius: 20px;
 border: 1px solid #000000;
 position: absolute;
+
+}
+
+.preparation-time {
+    box-sizing: border-box;
+    width: 145px;
+    height: 45px;
+    top: 550px;
+    left: 681px;
+    border: 1px solid #000000;
+    margin-left: 25px;
+
+}
+
+.cooking-time {
+    box-sizing: border-box;
+    width: 145px;
+    height: 45px;
+    top: 625px;
+    left: 681px;
+    border: 1px solid #000000;
+    margin-top: 20px;
+    margin-left: 25px;
 
 }
 
@@ -92,8 +116,10 @@ box-sizing: border-box;
 width: 800px;
 height: 40px;
 top: 1249px;
-left: 50px;
-border: 2px;
+left: 50px;  
+border: 2px solid #000000;
 position: absolute;
+text-align: center;
+padding: 7px;
 
 }
